@@ -1,0 +1,30 @@
+{
+  "name": "au-hardhat-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoroque95/au-hardhat-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theoroque95/au-hardhat-practice/issues"
+  },
+  "homepage": "https://github.com/theoroque95/au-hardhat-practice#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.14.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
